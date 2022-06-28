@@ -1,2 +1,2 @@
 # Newsletters_Management
-this isa  wordpress plugin for newsletters management
+this is a  wordpress plugin for newsletters management
